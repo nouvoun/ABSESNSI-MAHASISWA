@@ -3,6 +3,9 @@ from datetime import datetime
 
 FILENAME = 'absensi_siswa_guru.csv'
 
+if :() 
+else :() 
+
 def menu():
     print("=== Program Absensi Siswa dan Guru ===")
     print("1. Tambah Absensi")
