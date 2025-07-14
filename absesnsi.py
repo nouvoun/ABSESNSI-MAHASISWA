@@ -34,6 +34,15 @@ def lihat_absensi():
     except FileNotFoundError:
         print("Belum ada data absensi.")
 
+def edit_absensi():
+    new_rows = []
+    edit = edit("Masukan nama yang ingin diedit:") 
+    edit = edit("Masukan namauyang akan diedit:") 
+    if (" jika perintah mengulang, maka coba lagi dari awal:") 
+    else (" maksimal mengulang tiga kali:") 
+
+
+
 def hapus_absensi():
     new_rows = []
     nama = input("Masukkan nama yang ingin dihapus: ")
